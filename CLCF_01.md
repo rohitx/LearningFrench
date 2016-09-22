@@ -53,3 +53,22 @@ Un, une (singular) --> des (pluriel)
 un livre, une chaise --> des livres, des chaises
 
 C'est une femme --> Ce sont des femmes
+
+## Le Vocabulaire
+1. Sur
+2. Sous
+3. dans
+4. devant
+5. derrière
+
+Où est le cahier? Le cahier est dans la serviette
+Les gommes sont sur la table
+
+## Grammaire
+
+Une femme --> La femme
+Un oiseau --> L'oiseau
+Une horloge --> L'horloge
+
+> Le ou La devant les vowels devient L'
+
