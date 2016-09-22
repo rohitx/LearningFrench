@@ -1,6 +1,8 @@
-# Learning French
+# Cours de Langue et De Civilisation Françaises
 
-## Vocabulaire:
+## Premier Degré: Leçon de base
+
+## Le Vocabulaire:
 
 1. Un homme
 2. Une famme
@@ -17,4 +19,37 @@
 13. Une table
 14. Une chaise
 
+## Les phrases:
+Qu'est-ce que c'est?:
+    * C'est un livre
+    * C'est une chaise
 
+Est-ce un banc? Oui, c'est un banc.
+Est-ce un banc? Non, ce n'est pas un banc, c'est une table.
+
+Un livre --> des livres
+Une chaise --> des chaises
+
+## Le Vocabulaire:
+
+1. Un mouchoir
+2. Une fenêtre
+3. Un calendrier
+4. Un sac
+5. Une porte
+6. Un mur
+7. Un gant
+8. Un plancher
+9. Une cravate
+10. Un plafond
+11. Une montre
+12. Une horloge
+13. Une lampe
+14. Une clé
+
+## Grammaire
+
+Un, une (singular) --> des (pluriel)
+un livre, une chaise --> des livres, des chaises
+
+C'est une femme --> Ce sont des femmes
