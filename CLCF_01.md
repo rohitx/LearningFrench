@@ -66,9 +66,9 @@ Les gommes sont sur la table
 
 ## Grammaire
 
-Une femme --> La femme
-Un oiseau --> L'oiseau
-Une horloge --> L'horloge
+Une femme --> La femme<\br>
+Un oiseau --> L'oiseau<\br>
+Une horloge --> L'horloge<\br>
 
 > Le ou La devant les vowels devient L'
 
